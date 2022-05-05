@@ -1,16 +1,12 @@
-### Hi there 👋
+### Introduce... 👋
+***사람을 살리는 프로그래머*** 라는 소명으로 사람과 기업에게 이로운 개발을 고민하는 
+개발자 입니다.
 
-<!--
-**philips413/philips413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech... 🛠
+- Java
+- Spring boot 2.x
+- Vue.js
+- React.js
+- Typescript
+- Javascript ES6+
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
